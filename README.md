@@ -1,7 +1,7 @@
 # Spotify-Display
-This is a display that will show the current track that is playing on Spotify. Using the three tactile switches to receive input, you can go to the previous song, next song or pause it.
+This is a display that will show the current track that is playing on Spotify. Using the three tactile switches to receive input, you can go to the previous song, the next song or pause it.
 
-I made this project for Hack Club Stasis. It is the first project I have ever made and was featured as a starter project on Stasis. I chose this project, as it would be a constant reminder of my efforts as it sat at my desk and interact with it.
+I made this project for Hack Club Stasis. It is the first project I have ever made and was featured as a starter project on Stasis. I chose this project, as it would be a constant reminder of my efforts as it sat at my desk, and interacted with it.
 
 <img width="684" height="565" alt="Screenshot 2026-04-01 at 12 10 41 am" src="https://github.com/user-attachments/assets/4c91a4f2-c189-4ce2-af84-d81afad6ae6c" />
 The body of the Spotify Display.
