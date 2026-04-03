@@ -5,17 +5,25 @@ This is a display that will show the current track that is playing on Spotify. U
 
 I made this project for Hack Club Stasis. It is the first project I have ever made and was featured as a starter project on Stasis. I chose this project, as it would be a constant reminder of my efforts as it sat at my desk, and interacted with it.
 
-<img width="614" height="565" alt="Screenshot 2026-04-01 at 11 36 56 am" src="https://github.com/user-attachments/assets/b4e9273e-e852-4d23-bf58-890b07f0fd43" />
+<img width="1810" height="1810" alt="image" src="https://github.com/user-attachments/assets/fa8e8e63-e166-4f8c-8666-00cbfcc1c811" />
 
-<img width="614" height="565" alt="Screenshot 2026-04-01 at 11 39 14 am" src="https://github.com/user-attachments/assets/b730c89d-05ce-4253-89bc-1e1d826a689e" />
 
-The body of the Spotify Display.
+The front of the Spotify Display
 
-<img width="684" height="565" alt="Screenshot 2026-04-01 at 12 07 49 am" src="https://github.com/user-attachments/assets/4a186b06-dce2-4c2d-a38f-1d314524a553" />
+<img width="1084" height="1072" alt="image" src="https://github.com/user-attachments/assets/6cb89107-ac74-46c5-b424-bf9d301eff07" />
 
-The back of the Spotify Display.
+The top of the Spotify Display
 
-<img width="829" height="712" alt="Screenshot 2026-03-31 at 11 48 30 pm" src="https://github.com/user-attachments/assets/275678e5-486a-47cf-88e4-f012abc9c8c0" />
+<img width="1084" height="1072" alt="image" src="https://github.com/user-attachments/assets/2e246237-759d-4566-8881-46bbde4cfb83" />
+<img width="1018" height="1056" alt="image" src="https://github.com/user-attachments/assets/257917d9-4d68-423e-8d73-d0cb9b7c0d33" />
+
+The back of the Spotify Display with and without the cover.
+
+<img width="1234" height="984" alt="image" src="https://github.com/user-attachments/assets/b4886538-4619-4cb5-b296-512d16de598d" />
+
+The cover of the Spotify Display.
+
+<img width="1730" height="1280" alt="image" src="https://github.com/user-attachments/assets/d52fb659-216b-4384-93f2-974cd1139a37" />
 
 The wiring diagram. 
 
